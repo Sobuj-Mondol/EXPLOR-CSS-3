@@ -1,0 +1,18 @@
+.box{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+#box-1{
+    background-color: darkblue;
+}
+#box-2{
+    background-color: red;
+    /* display: none;
+    display: block; */
+    /* visibility: hidden; */
+}
+#box-3{
+    background-color: yellow;
+}
